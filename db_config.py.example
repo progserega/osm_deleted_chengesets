@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+db_host="db.rs.int"
+db_name="drsk_dev_osm"
+db_user="osm_read_only"
+db_passwd="XXXXXXXX"
+
+base_url="http://osm.prim.drsk.ru/changeset"
+
+#debug=True
+debug=False
+
